@@ -1,7 +1,5 @@
 # CREDIT_CARD_REPORT
 This personalized Power BI dashboard offers a comprehensive view of credit card activities, tailored to provide actionable insights. 
-
-
 Weekly Spend Analysis- Visualize your spending trends week-over-week to manage finances better.
 Category -Breakdown Understand where your money goes with categorized expenditures.
 Revenue - Stay alert with built-in metrics designed to flag unusual activities.
